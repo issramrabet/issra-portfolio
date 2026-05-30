@@ -305,8 +305,7 @@ export default function Contact() {
           viewport={{ once: true }} transition={{ duration: 0.6, delay: 0.2 }}
           style={{ color: 'var(--muted)', fontSize: '1.1rem', lineHeight: 1.8, maxWidth: 540, margin: '0 auto 48px' }}
         >
-          I'm actively looking for a summer internship in AI, Computer Vision, or Full-Stack development.
-          Drop me a line — let's build something.
+          I’m always excited to meet new people, explore fresh ideas, and work on interesting projects. Reach out ! Let's connect and create something meaningful.
         </motion.p>
 
         {/* Message form */}

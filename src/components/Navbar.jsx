@@ -249,7 +249,7 @@ export default function Navbar() {
       lang: 'English',
       label: 'Resume',
       sub: 'English version',
-      file: '/cv_issra_en.pdf',
+      file: '/Issra_Mrabet_CV_EN.pdf',
       flag: '/eng.png',
       accent: '#06b6d4',
       accentAlt: '#22d3ee',

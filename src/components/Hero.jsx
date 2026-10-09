@@ -298,7 +298,7 @@ export default function Hero() {
               marginBottom: 44,
               letterSpacing: '0.01em',
             }}>
-              1st-year Engineering student at ENISo. Building AI systems that see, understand, and act in the real world. Passionate about computer vision, deep learning, and full-stack development. Always eager to learn and create impactful projects.
+              2nd-year Engineering student at ENISo. Building AI systems that see, understand, and act in the real world. Passionate about computer vision, deep learning, and full-stack development. Always eager to learn and create impactful projects.
             </motion.p>
 
             {/* CTAs */}

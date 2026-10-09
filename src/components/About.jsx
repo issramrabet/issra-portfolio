@@ -270,7 +270,7 @@ export default function About() {
             </h2>
           </div>
           <p className="reveal" style={{ color:'var(--muted)',lineHeight:1.9,fontSize:'1.05rem',marginBottom:24 }}>
-            I'm Issra Mrabet, a 1st-year Applied Computer Engineering student at ENISo (National School of Engineers of Sousse), Tunisia. I came through the Math-Physics preparatory cycle at IPEIM, Monastir, two years of building the foundations to then break them with code.
+            I'm Issra Mrabet, a 2nd-year Applied Computer Engineering student at ENISo (National School of Engineers of Sousse), Tunisia. I came through the Math-Physics preparatory cycle at IPEIM, Monastir, two years of building the foundations to then break them with code.
           </p>
           <p className="reveal" style={{ color:'var(--muted)',lineHeight:1.9,fontSize:'1.05rem',marginBottom:28 }}>
             I'm obsessed with the intersection of AI and real-world impact; from gesture-controlled interfaces to medical imaging diagnostics. I build things that see, think, and respond. Currently seeking a summer internship to contribute to production-level projects.
